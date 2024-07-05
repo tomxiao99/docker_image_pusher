@@ -1,5 +1,1 @@
-#支持私库
-alpine
-python:alpine3.19
-#支持指定架构
---platform=linux/arm64 redis:7.0.15-alpine3.20
+linuxserver/letsencrypt:version-1.11.0
