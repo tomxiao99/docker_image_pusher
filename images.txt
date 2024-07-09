@@ -1,1 +1,1 @@
-linuxserver/docker-compose:v2.26.0
+docker-compose:v2.26.0
